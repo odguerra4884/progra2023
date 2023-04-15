@@ -1,0 +1,3 @@
+C:/Users/LATITUDE/CLionProjects/untitled14/cmake-build-debug/CMakeFiles/untitled14.dir
+C:/Users/LATITUDE/CLionProjects/untitled14/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/LATITUDE/CLionProjects/untitled14/cmake-build-debug/CMakeFiles/rebuild_cache.dir
